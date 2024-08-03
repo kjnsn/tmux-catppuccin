@@ -3,8 +3,8 @@
 
 # --> Catppuccin (Latte)
 # Base colors
-thm_bg="#eff1f5" # base
-thm_fg="#4c4f69" # text
+thm_bg="#eff1f5"
+thm_fg="#4c4f69"
 
 thm_rosewater="#dc8a78"
 thm_flamingo="#dd7878"
@@ -21,6 +21,8 @@ thm_sapphire="#209fb5"
 thm_blue="#1e66f5"
 thm_lavender="#7287fd"
 thm_surface2="#acb0be"
+thm_surface0="#ccd0da"
+thm_crust="#dce0e8"
 
 thm_black="#e6e9ef" # mantle
 thm_gray="#ccd0da" # surface 0
@@ -33,4 +35,3 @@ thm_magenta="${thm_mauve}"
 thm_orange="${thm_peach}"
 # DEPRECATED, use surface2 instead
 thm_black4="${thm_surface2}"
-

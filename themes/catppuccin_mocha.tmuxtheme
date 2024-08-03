@@ -21,6 +21,8 @@ thm_sapphire="#74c7ec"
 thm_blue="#89b4fa"
 thm_lavender="#b4befe"
 thm_surface2="#585b70"
+thm_surface0="#313244"
+thm_crust="#11111b"
 
 thm_black="#181825" # mantle
 thm_gray="#313244" # surface 0

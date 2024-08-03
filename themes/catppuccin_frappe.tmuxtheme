@@ -3,8 +3,8 @@
 
 # --> Catppuccin (Frappe)
 # Base colors
-thm_bg="#303446" # base
-thm_fg="#c6d0f5" # text
+thm_bg="#303446"
+thm_fg="#c6d0f5"
 
 thm_rosewater="#f2d5cf"
 thm_flamingo="#eebebe"
@@ -20,7 +20,9 @@ thm_sky="#99d1db"
 thm_sapphire="#85c1dc"
 thm_blue="#8caaee"
 thm_lavender="#babbf1"
-thm_surface2="626880"
+thm_surface2="#626880"
+thm_surface0="#414559"
+thm_crust="#232634"
 
 thm_black="#292c3c" # mantle
 thm_gray="#414559" # surface 0

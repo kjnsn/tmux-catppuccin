@@ -21,9 +21,11 @@ thm_sapphire="#7dc4e4"
 thm_blue="#8aadf4"
 thm_lavender="#b7bdf8"
 thm_surface2="#5b6078"
+thm_surface0="#363a4f"
+thm_crust="#181926"
 
-thm_black="#1e2030"
-thm_gray="#363a4f"
+thm_black="#1e2030" # mantle
+thm_gray="#363a4f" # surface 0
 
 # DEPRECATED, use sky instead
 thm_cyan="${thm_sky}"
